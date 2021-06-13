@@ -1,6 +1,5 @@
 echo Updating...
 wget https://github.com/sparksammy/callienaps-nw/blob/master/builds/callienaps_blue_main.dylib?raw=true -O callienaps.dylib
-xattr -p com.apple.quarantine callienaps.dylib
 echo Launching...
 cd lib2procV1
 xattr -p com.apple.quarantine lib2proc.dylib
