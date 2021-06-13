@@ -4,6 +4,8 @@ free launcher for callienaps
 ## NOTE
 WE DO NOT ENDORSE UNAUTHORIZED HACKING, INCLUDING HACKING GAMES TO GET AN ADVANTAGE. THIS TOOL IS SIMPLY FOR REVERSE ENGINEERING, DEBUGGING, EDUCATION, AND BUG HUNTING PURPOSES.
 
+Also note we do use fluxus but only to bootstrap our code, as well as for a backup if anything goes wrong.
+
 ## Dependencies
 brew install pgrep wget
 
