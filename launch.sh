@@ -11,5 +11,5 @@ echo Launching...
   rm files_main/README.md
   chmod +x files_main/lib2proc
   cd files_main/
-  sudo ./lib2proc $(pgrep '^RobloxPlayer$' | head -1) callienaps_blue_main.dylib
+  sudo ./lib2proc $(pgrep '^RobloxPlayer$' | head -1) launcher.dll --mono HelloWorld.Main
 
